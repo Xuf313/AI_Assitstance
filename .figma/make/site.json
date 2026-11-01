@@ -1,0 +1,10 @@
+{
+  "description": "A personal AI assistant for voice conversations, daily news briefings, and fast file search, presented in a futuristic holographic interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
